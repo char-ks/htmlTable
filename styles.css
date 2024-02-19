@@ -1,0 +1,40 @@
+h2 {
+  color: grey;
+}
+
+h1,
+h2 {
+  font-family: futura, sans-serif;
+  text-align: center;
+}
+
+table {
+  position: relative;
+  margin: auto auto;
+}
+
+table, th, td {
+  border: 1px solid;
+  font-family: futura, sans-serif;
+  text-align: center;
+  line-height: 1.2;
+  padding: 10px 10px;   
+}
+
+th {
+  background-color: yellow;  
+}
+
+.tag,
+.attribute {
+  font-family: courier; 
+}
+
+p {
+  font-family: futura;
+  opacity: 0.4;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  bottom: 0px;
+}
